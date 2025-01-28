@@ -36,6 +36,7 @@ export default function Index() {
           keyExtractor={(item) => item.url}/>
        </Card>
 
+
     </SafeAreaView>
   );
 }
